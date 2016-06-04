@@ -1,3 +1,9 @@
+body
+{
+    font-family: 'Catamaran',"Helvetica Neue",Helvetica,Arial,sans-serif;
+	font-size: 16px;
+}
+
 .container
 {
 	max-width: 820px;
@@ -46,7 +52,7 @@
 
 .logo-name
 {
-	font-family: 'Philosopher',"Helvetica Neue",Helvetica,Arial,sans-serif;
+	font-family: 'Philosopher','Catamaran',"Helvetica Neue",Helvetica,Arial,sans-serif;
 }
 
 .pitch
