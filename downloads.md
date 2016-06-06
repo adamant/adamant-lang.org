@@ -3,3 +3,4 @@ layout: page
 title: Downloads
 permalink: /downloads/
 ---
+Adamant is still in early development and does not have official builds available.  Eventually, binary releases for Windows, Mac and Linux will be available here.  If you want to get started playing with Adamant today, check out the [Pre-Adamant Compiler source](https://github.com/adamant/PreAdamantCompiler).
