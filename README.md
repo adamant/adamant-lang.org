@@ -1,3 +1,16 @@
-## adamant-lang.org
+# adamant-lang.org
 
-The source for <adamant-lang.org>.  This is hosted through GitHub pages.  To run locally, install [Jekyll](https://jekyllrb.com/) and run `jekyll serve` at the command line from inside the repo.
+The source for [adamant-lang.org](http://adamant-lang.org).
+
+This is hosted on GitHub pages.
+
+## Running Locally
+
+Make sure you have [Ruby](http://www.ruby-lang.org) and [Bundler](http://bundler.io/) installed.
+
+Run:
+
+```
+bundle install
+bundle exec jekyll serve
+```
