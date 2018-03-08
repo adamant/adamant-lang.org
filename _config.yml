@@ -12,7 +12,11 @@ encoding: UTF-8
 permalink: /blog/:year/:title
 paginate: 5
 paginate_path: "/blog/page:num"
+repository: adamant/adamant.org
 
 # Build settings
 markdown: kramdown
-exclude: README.md
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
