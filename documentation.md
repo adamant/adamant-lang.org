@@ -4,8 +4,9 @@ title: Adamant Documentation
 permalink: /documentation/
 ---
 
-Since Adamant is still in early development there is very little documentation available. The best way to learn about it will be from posted code samples and articles.  An [informal specification](https://github.com/adamant/Adamant.Specification.Informal/blob/master/book.md) designed to also serve as an introduction is in progress and also serves as a usual introduction to the language.
+Since Adamant is still in early development there is very little documentation available. Draft versions of the language reference and an introduction are currently available though.
 
-## References
+## Books
 
-An informal specification and introduction should be available soon.
+* *Draft* [Language Reference](https://github.com/adamant/adamant.language.reference/blob/master/book.md)
+* *Draft* [Introduction to Programming in Adamant](https://github.com/adamant/adamant.language.introduction)
