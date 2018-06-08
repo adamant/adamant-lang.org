@@ -14,6 +14,7 @@ repository: adamant/adamant-lang.org
 # Build settings
 markdown: kramdown
 incremental: true
+strict_front_matter: false
 # Exclude from processing.
 exclude:
   - README.md
