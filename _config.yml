@@ -13,7 +13,10 @@ repository: adamant/adamant-lang.org
 
 # Build settings
 markdown: kramdown
-incremental: true
+kramdown:
+  syntax_highlighter_opts:
+    disable: true # disable syntax hilighting server side
+incremental: false # still experimental and seems to be causeing problems
 strict_front_matter: false
 # Exclude from processing.
 exclude:
