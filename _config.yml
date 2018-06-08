@@ -9,13 +9,11 @@ url: "http://adamant-lang.org" # the base hostname & protocol for your site
 twitter_username: AdamantLang
 github_username:  adamant
 encoding: UTF-8
-permalink: /blog/:year/:title
-paginate: 5
-paginate_path: "/blog/page:num"
 repository: adamant/adamant.org
 
 # Build settings
 markdown: kramdown
+# Exclude from processing.
 exclude:
   - README.md
   - Gemfile
