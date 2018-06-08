@@ -13,13 +13,13 @@
                 "reveal": "always",
                 "focus": false,
                 "panel": "dedicated"
-            },
-            {
-                "label": "Bundle Update",
-                "type": "shell",
-                "command": "bundle update",
-                "problemMatcher": []
             }
+        },
+        {
+            "label": "Bundle Update",
+            "type": "shell",
+            "command": "bundle update",
+            "problemMatcher": []
         }
     ]
 }
