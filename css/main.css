@@ -56,17 +56,20 @@ pre code
     margin: 0 auto 0 auto;
 }
 
-.site-header ul
+.site-header ul,
+.blog-header ul
 {
     padding: 0;
 }
 
-.site-header li
+.site-header li,
+.blog-header li
 {
     list-style-type: none;
 }
 
-.site-header .menu
+.site-header .menu,
+.blog-header .menu
 {
     text-align: center;
 }
@@ -79,12 +82,14 @@ pre code
     }
 }
 
-.site-header .menu li
+.site-header .menu li,
+.blog-header .menu li
 {
-    display: inline;
+    display: inline-block;
 }
 
-.site-header h2
+.site-header h2,
+.blog-header h2
 {
     display: inline;
     font-size: 20px;
@@ -94,7 +99,8 @@ pre code
     margin: 0.55em 0.25em ;
 }
 
-.site-header li.active h2
+.site-header li.active h2,
+.blog-header li.active h2
 {
     border-radius: 5px;
     background-color: #eee;
