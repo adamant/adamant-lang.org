@@ -2,6 +2,7 @@
 layout: page
 title: Adamant Documentation
 permalink: /documentation/
+section: documentation
 ---
 
 Since Adamant is still in early development there is very little documentation available. Draft versions of the language reference and an introduction are currently available though.
