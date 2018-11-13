@@ -1,3 +1,26 @@
+/*
+Fix issue with scrollbar causing jumping when going between pages.
+On larger screens, we use a trick to shift the html element by the scrollbar width
+so it stays "centered" where it was without the scrollbar.
+On smaller screens, that leaves noticaby more room on the left then right, so
+we don't do that. We just force the scrollbar.
+*/
+@media (min-width: 768px)
+{
+    html
+    {
+        margin-left: calc(100vw - 100%);
+        margin-right: 0;
+    }
+}
+@media (max-width: 767px)
+{
+    html
+    {
+        overflow-y: scroll;
+    }
+}
+
 body
 {
     font-family: 'Catamaran',"Helvetica Neue",Helvetica,Arial,sans-serif;
