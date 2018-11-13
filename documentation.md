@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Adamant Documentation
+title: Documentation
 permalink: /documentation/
 section: documentation
 ---

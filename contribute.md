@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Contributing to Adamant
+title: Contributing
 permalink: /contribute/
 section: contribute
 ---

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Adamant Community
+title: Community
 permalink: /community/
 section: community
 ---
