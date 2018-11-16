@@ -9,5 +9,5 @@ Adamant is still in early development, and there is very little documentation av
 
 ## Books
 
-* *Draft* [Language Reference](https://github.com/adamant/adamant.language.reference/blob/master/book.md)
+* *Draft* [Language Reference](https://github.com/adamant/adamant.language.reference/blob/master/src/book.md)
 * *Draft* [The Design of the Adamant Language](https://github.com/adamant/adamant.language.design/blob/master/book.md)
