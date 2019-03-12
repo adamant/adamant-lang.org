@@ -16,7 +16,7 @@ markdown: kramdown
 kramdown:
   syntax_highlighter_opts:
     disable: true # disable syntax hilighting server side
-incremental: false # still experimental and seems to be causeing problems
+incremental: false # still experimental and seems to be causing problems
 strict_front_matter: true
 
 # Exclude from processing.
